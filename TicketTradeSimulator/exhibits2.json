@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "Cecily Brown",
+      "exhibit": "Themes and Variations",
+      "localDate": "2025-03-09",
+      "museum": "The Barnes Foundation, Philadelphia",
+      "agents": 2
+    },
+    {
+      "name": "Kerry James Marshall",
+      "exhibit": "Retrospective",
+      "localDate": "2025-09-20",
+      "museum": "Royal Academy of Arts, London",
+      "agents": 1
+    },
+    {
+      "name": "Van Gogh",
+      "exhibit": "The Roulin Family Portraits",
+      "localDate": "2025-03-30",
+      "museum": "Museum of Fine Arts, Boston",
+      "agents": 3
+    },
+    {
+      "name": "Caspar David Friedrich",
+      "exhibit": "The Soul of Nature",
+      "localDate": "2025-02-08",
+      "museum": "The Metropolitan Museum of Art, New York",
+      "agents": 2
+    },
+    {
+      "name": "Helen Frankenthaler",
+      "exhibit": "Painting Without Rules",
+      "localDate": "2025-04-01",
+      "museum": "Guggenheim Museum Bilbao",
+      "agents": 1
+    }
+  ]
+}
